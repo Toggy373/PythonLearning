@@ -1,4 +1,4 @@
-# This will output based on rows and columns input
+# This will output asterisks(*) in a rectangle based on rows and columns input
 num_rows = int(input())
 num_cols = int(input())
 
